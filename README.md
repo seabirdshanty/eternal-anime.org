@@ -1,2 +1,2 @@
 # eternal-anime.org
-code used on my website
+code used on my website, currently at [solstice.party](http://solstice.party)
